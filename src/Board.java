@@ -12,4 +12,12 @@ public class Board {
             {'R', 'N', 'B', 'Q', 'K', 'B', 'N', 'R'}
     };
 
+
+    public void makeMove(String move){
+    //todo hvordan skal brikker rykkes rundt
+    }
+
+    //En måde på at tjekke om et træk er lovligt
+
+
 }
